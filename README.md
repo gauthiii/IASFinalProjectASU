@@ -4,21 +4,14 @@ CSE 543, Information Assurance and Security, Fall 2023, Group 1-5
 
 A project report presented by 
 
-Gautham Vijayaraj, gvijaya6@asu.edu
-
-Krupaben Kothadia, kkothadi@asu.edu
-
-Avani Mundra, amudra@asu.edu
-
-Justin Young, jtyoun15@asu.edu
-
-Anuranjan Dubey, adubey37@asu.edu
-
-Rahul Nayak, rrnayak@asu.edu
-
-Sangeeth Santhosh, ssantho9@asu.edu
-
-Yeshwanth Reddy Chennur, ychennur@asu.edu
+* Gautham Vijayaraj, gvijaya6@asu.edu
+* Krupaben Kothadia, kkothadi@asu.edu
+* Avani Mundra, amudra@asu.edu
+* Justin Young, jtyoun15@asu.edu
+* Anuranjan Dubey, adubey37@asu.edu
+* Rahul Nayak, rrnayak@asu.edu
+* Sangeeth Santhosh, ssantho9@asu.edu
+* Yeshwanth Reddy Chennur, ychennur@asu.edu
 
 ## Project Scope
 
@@ -72,4 +65,27 @@ A thorough report describing the project's methodology, algorithms, steps of imp
 * Basis for Further Research: 
 The models and conclusions will operate as a starting point for additional study in the area of detecting suspicious behavior on social media.
 
+## Project Risks
+The following are some of the risks associated with the project:
+
+* Incomplete or Inaccurate Information:
+Information on different data mining techniques, machine learning models, or security measures may be insufficient or inaccurate in the literature.
+
+* Dependency on External Sources:
+The literature study depends on the accessibility and dependability of outside sources, which may be modified or stopped altogether.
+
+* Complexity of Model Evaluation:
+It can be difficult to evaluate machine learning models and categorize social media accounts, and there may not be a single set of accepted standards.
+
+* Security Risks:
+When discussing machine learning model security, it's possible to unintentionally reveal information that could be used by malicious individuals.
+
+* Zero-Day Detection Challenges:
+Zero-day detection techniques might not always work or have practical application restrictions.
+
+* Data Mining Challenges:
+It may be difficult to find appropriate data mining methods to handle the variety of unstructured social media data, and some methods might be less efficient than others.
+
+* Resource Constraints:
+The quality and breadth of the literature review may suffer from a lack of time and resources.
 
