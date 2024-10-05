@@ -24,7 +24,7 @@ Yeshwanth Reddy Chennur, ychennur@asu.edu
 
 The project will focus on the following areas:
 
-# Data Exploration:
+*Data Exploration:
 There are a wide variety of suspicious activities that go on social media these days. Thus it is important that we study the different types of suspicious activities.
 
 # Secure Data Collection Techniques:
